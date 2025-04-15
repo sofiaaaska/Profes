@@ -1,0 +1,236 @@
+[
+  {
+    "profes": "Abud Carrillo, Jenny",
+    "titulades": 10,
+    "guiades": 15,
+    "porcentaje": "66,7%"
+  },
+  {
+    "profes": "Benavides Bermúdez, Paola",
+    "titulades": 2,
+    "guiades": 7,
+    "porcentaje": "28,6%"
+  },
+  {
+    "profes": "Castillo Espinoza, Eduardo",
+    "titulades": 9,
+    "guiades": 21,
+    "porcentaje": "42,9%"
+  },
+  {
+    "profes": "Morales Mujica, María Paz",
+    "titulades": 6,
+    "guiades": 11,
+    "porcentaje": "54,5%"
+  },
+  {
+    "profes": "Cortez Orellana, Felipe",
+    "titulades": 8,
+    "guiades": 17,
+    "porcentaje": "47,1%"
+  },
+  {
+    "profes": "Castro Meza, Ricardo",
+    "titulades": 1,
+    "guiades": 1,
+    "porcentaje": "100,0%"
+  },
+  {
+    "profes": "De la Sotta Lazzerini, Paola",
+    "titulades": 7,
+    "guiades": 17,
+    "porcentaje": "41,2%"
+  },
+  {
+    "profes": "Domínguez González, Pablo",
+    "titulades": 25,
+    "guiades": 62,
+    "porcentaje": "40,3%"
+  },
+  {
+    "profes": "Donoso Cisternas, Sergio",
+    "titulades": 7,
+    "guiades": 20,
+    "porcentaje": "35,0%"
+  },
+  {
+    "profes": "Dueñas Santander, Rodrigo",
+    "titulades": 12,
+    "guiades": 26,
+    "porcentaje": "46,2%"
+  },
+  {
+    "profes": "Gatica Ramírez, Pamela",
+    "titulades": 6,
+    "guiades": 13,
+    "porcentaje": "46,2%"
+  },
+  {
+    "profes": "Gómez Moya, Cristián",
+    "titulades": 3,
+    "guiades": 9,
+    "porcentaje": "33,3%"
+  },
+  {
+    "profes": "Jacob Dazarola, Rubén",
+    "titulades": 13,
+    "guiades": 37,
+    "porcentaje": "35,1%"
+  },
+  {
+    "profes": "Lares López, Lorna",
+    "titulades": 4,
+    "guiades": 17,
+    "porcentaje": "23,5%"
+  },
+  {
+    "profes": "Marín Pacheco, Antonio",
+    "titulades": 4,
+    "guiades": 10,
+    "porcentaje": "40,0%"
+  },
+  {
+    "profes": "Lepe Muñoz, Juan Carlos",
+    "titulades": 2,
+    "guiades": 5,
+    "porcentaje": "40,0%"
+  },
+  {
+    "profes": "Maldonado de la Fuente, Felix",
+    "titulades": 3,
+    "guiades": 9,
+    "porcentaje": "33,3%"
+  },
+  {
+    "profes": "Méndez Olivares, Iván",
+    "titulades": 2,
+    "guiades": 6,
+    "porcentaje": "33,3%"
+  },
+  {
+    "profes": "Nuñez Gutiérrez, Pablo",
+    "titulades": 4,
+    "guiades": 13,
+    "porcentaje": "30,8%"
+  },
+  {
+    "profes": "Ode Saleh, Verónica",
+    "titulades": 15,
+    "guiades": 29,
+    "porcentaje": "51,7%"
+  },
+  {
+    "profes": "Jove Avilés, Trinidad",
+    "titulades": 2,
+    "guiades": 6,
+    "porcentaje": "33,3%"
+  },
+  {
+    "profes": "Molina, Raúl",
+    "titulades": 1,
+    "guiades": 4,
+    "porcentaje": "25,0%"
+  },
+  {
+    "profes": "Osses Flores, Roberto",
+    "titulades": 7,
+    "guiades": 23,
+    "porcentaje": "30,4%"
+  },
+  {
+    "profes": "Pagueguy Fenner, Sebastián",
+    "titulades": 5,
+    "guiades": 14,
+    "porcentaje": "35,7%"
+  },
+  {
+    "profes": "Perea Morales, René",
+    "titulades": 3,
+    "guiades": 11,
+    "porcentaje": "27,3%"
+  },
+  {
+    "profes": "Perelli Soto, Bruno",
+    "titulades": 2,
+    "guiades": 7,
+    "porcentaje": "28,6%"
+  },
+  {
+    "profes": "Mora, Alfredo",
+    "titulades": 1,
+    "guiades": 2,
+    "porcentaje": "50,0%"
+  },
+  {
+    "profes": "Pradenas Guentherodt, Gabriela",
+    "titulades": 3,
+    "guiades": 7,
+    "porcentaje": "42,9%"
+  },
+  {
+    "profes": "Reyes León, Daniel",
+    "titulades": 4,
+    "guiades": 5,
+    "porcentaje": "80,0%"
+  },
+  {
+    "profes": "Ruiz Balart, Macarena",
+    "titulades": 1,
+    "guiades": 2,
+    "porcentaje": "50,0%"
+  },
+  {
+    "profes": "Santibañez Boric, Mónica",
+    "titulades": 1,
+    "guiades": 2,
+    "porcentaje": "50,0%"
+  },
+  {
+    "profes": "Silva Roquefort, Rebeca",
+    "titulades": 1,
+    "guiades": 2,
+    "porcentaje": "50,0%"
+  },
+  {
+    "profes": "Soto Calquín, Leonardo",
+    "titulades": 8,
+    "guiades": 21,
+    "porcentaje": "38,1%"
+  },
+  {
+    "profes": "Stange Marcus, Hans",
+    "titulades": 1,
+    "guiades": 3,
+    "porcentaje": "33,3%"
+  },
+  {
+    "profes": "Tapia Reyes, Mauricio",
+    "titulades": 4,
+    "guiades": 6,
+    "porcentaje": "66,7%"
+  },
+  {
+    "profes": "Vico Sánchez, Mauricio",
+    "titulades": 2,
+    "guiades": 4,
+    "porcentaje": "50,0%"
+  },
+  {
+    "profes": "Wechsler Pizarro, Andrea",
+    "titulades": 11,
+    "guiades": 4,
+    "porcentaje": "275,0%"
+  },
+  {
+    "profes": "Young Araya, Mariana",
+    "titulades": 6,
+    "guiades": 12,
+    "porcentaje": "50,0%"
+  },
+  {
+    "profes": "Zorzano Betancourt, Osvaldo",
+    "titulades": 3,
+    "guiades": 10,
+    "porcentaje": "30,0%"
+  }
+]
